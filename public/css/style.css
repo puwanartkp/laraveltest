@@ -1,0 +1,23 @@
+
+#menu{
+	list-style-type:none;
+	font-size:18px;
+}
+
+#menu li{
+	display:inline;
+}
+
+.red {
+	color: red;
+}
+.green {
+	color: #008000;
+}
+.blue {
+	color: blue;
+}
+.white {
+	color: white;
+}
+

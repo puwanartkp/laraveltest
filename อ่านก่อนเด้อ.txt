@@ -1,0 +1,3 @@
+controller ---> app/http/controller
+model ----> app/model ///// sometime need to mitegrade from database
+view -----> resource ///// need to rewrite route evertime
